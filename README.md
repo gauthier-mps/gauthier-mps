@@ -1,4 +1,6 @@
-### Hi there 👋
+About me
+
+I am a student in computer engineering. I also do front and back end web development. 
 
 <!--
 **gauthier-mps/gauthier-mps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
